@@ -18,7 +18,7 @@ console.log(randomNumbers());
 let newTree = new Tree(numArr);
 // console.log(newTree);
 
-//Returns true: console.log(newTree.isBalanced());
+// Returns true: console.log(newTree.isBalanced());
 
 // const levelOrder = [];
 // newTree.levelOrderForEach(value => levelOrder.push(value));
